@@ -9,3 +9,4 @@ catkin_create_pkg $package std_msgs rospy
 cd ~/$name
 catkin_make
 . ~/$name/devel/setup.bash
+
